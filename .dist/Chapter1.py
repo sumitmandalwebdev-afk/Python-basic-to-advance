@@ -14,4 +14,8 @@ print(f"My name is {name}")
 print(f"My college is  {college_name}")
 print(f"Currently doing  {course}")
 
-'Q2. '
+'Q2. Print a short introduction using three print() statements.'
+
+print("MY name is Sumit Mandal")
+print("I am a B.Tech 3rd year student")
+print("learinig python skills")
