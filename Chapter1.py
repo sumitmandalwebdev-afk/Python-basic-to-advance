@@ -44,48 +44,27 @@
 
 '7. Create a .py file and run it from the terminal.'
 # write -> python filename.py to run the code from terminal 
-print("hello world")
-
+# print("hello world")
 
 '8. Write a program that demonstrates that Python executes statements from top to bottom.'
 
-
+# print("Statement 1")
+# print("Statement 2")
+# print("Statement 3")
+# print("Statement 4")
 
 '9. Print three values separated by a custom separator using print().'
 
+# name = "sumit"
+# age = "18"
+# state = "U.P"
+# print(name,age,state,sep=" | ")
 
+'10. Write difference between a Python source file and REPL usage.'
 
-
-
-
-
-
-'10. Write a small program showing the difference between a Python source file and REPL usage.'
-
-
-
-
-'11. Create a file with an intentional syntax error, observe it, then fix it.'
-
-
-
-
-'12. Write a short program and identify which part is source code and which part is output.'
-
-
-
-
-'13. Create a program that demonstrates why readable syntax is useful.'
-
-
-
-
-'14. Research from the PDF: list the main areas where Python is used and write one tiny example idea for each.'
-
-
-
-
-'15. Create a one-page Python introduction program that prints your learning roadmap.'
+# Source file: Code .py file me save karke run karte hain.
+# REPL: Code directly terminal me one-by-one likhkar immediately result dekhte hain.
+# REPL = Read → Evaluate → Print → Loop.
 
 
 
