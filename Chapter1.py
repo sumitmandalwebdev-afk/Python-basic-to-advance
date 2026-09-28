@@ -1,0 +1,91 @@
+'''
+                                 Chapter 1 
+                           Introduction to Python 
+                                
+                                 Questions 
+'''
+
+'Q1. Write a program that prints your name, college name and course on separate lines.'
+
+# name = "Sumit_Mandal"
+# college_name = "DR. KN MIET "
+# course = "B.Tech"
+# print(f"My name is {name}")
+# print(f"My college is  {college_name}")
+# print(f"Currently doing  {course}")
+
+'Q2. Print a short introduction using three print() statements.'
+
+# print("MY name is Sumit Mandal")
+# print("I am a B.Tech 3rd year student")
+# print("learinig python skills")
+
+
+'3. Print the same introduction using one print() statement with \n.'
+
+# print(" MY name is Sumit Mandal \n I am a B.Tech 3rd year student \n learinig python skills"  )
+
+'4. Explain by code comments what a Python interpreter does.'
+
+# Python interpreter reads and executes Python code.
+# It first converts the source code into bytecode.
+# Then the Python Virtual Machine (PVM) executes that bytecode.
+
+# print("Hello World")  Interpreter executes this statement and displays the output.
+
+'5. Write a program that prints the result of 25 + 17'
+
+# print(25+17)
+
+'6. Write a program that prints the result of 12 * 8 and 100 / 4.'
+
+# print(12*8)
+# print(100/4)
+
+'7. Create a .py file and run it from the terminal.'
+# write -> python filename.py to run the code from terminal 
+print("hello world")
+
+
+'8. Write a program that demonstrates that Python executes statements from top to bottom.'
+
+
+
+'9. Print three values separated by a custom separator using print().'
+
+
+
+
+
+
+
+
+'10. Write a small program showing the difference between a Python source file and REPL usage.'
+
+
+
+
+'11. Create a file with an intentional syntax error, observe it, then fix it.'
+
+
+
+
+'12. Write a short program and identify which part is source code and which part is output.'
+
+
+
+
+'13. Create a program that demonstrates why readable syntax is useful.'
+
+
+
+
+'14. Research from the PDF: list the main areas where Python is used and write one tiny example idea for each.'
+
+
+
+
+'15. Create a one-page Python introduction program that prints your learning roadmap.'
+
+
+
